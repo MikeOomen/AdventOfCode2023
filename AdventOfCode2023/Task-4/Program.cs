@@ -82,19 +82,21 @@ namespace Task_4
                                     val++;
                                     string[] aString = list[0].Split(' ');
                                     aString[1].Trim(' ');
-                                        bool worked = int.TryParse(aString[1], out int g);
-                                        if (worked)
-                                        {
-                                        g--;
-                                            if (val + g < textFile.Length && val + g != g)
-                                            {
-                                                textList.Add(textFile[val + g]);
-                                                textList.Sort();
-                                            }
 
+                                    bool worked = int.TryParse(aString[1], out int g);
+                                    if (worked)
+                                    {
+                                        g--;
+
+                                        if (val + g < textFile.Length && val + g != g)
+                                        {
+                                            textList.Add(textFile[val + g]);
+                                            textList.Sort();
                                         }
 
-                                    
+                                    }
+
+
                                 }
                             }
                         }

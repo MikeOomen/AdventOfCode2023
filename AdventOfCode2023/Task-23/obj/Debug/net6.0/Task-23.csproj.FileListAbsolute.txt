@@ -1,0 +1,16 @@
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\Task-23.exe
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\TextFile1.txt
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\Task-23.deps.json
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\Task-23.runtimeconfig.json
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\Task-23.dll
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\bin\Debug\net6.0\Task-23.pdb
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.csproj.AssemblyReference.cache
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.AssemblyInfoInputs.cache
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.AssemblyInfo.cs
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.csproj.CoreCompileInputs.cache
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.dll
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\refint\Task-23.dll
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.pdb
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\Task-23.genruntimeconfig.cache
+C:\Visual Studio Stuff\Projects\AdventOfCode2023\AdventOfCode2023\Task-23\obj\Debug\net6.0\ref\Task-23.dll

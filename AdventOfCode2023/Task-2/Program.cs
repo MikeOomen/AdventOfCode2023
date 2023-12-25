@@ -111,7 +111,7 @@ namespace Task_2
             return num;
         }
 
-        static int PartTwo(int maxRed = 12, int maxGreen = 13, int maxBlue = 14)
+        static int PartTwo()
         {
             int num = 0;
 
